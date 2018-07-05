@@ -42,10 +42,10 @@
 		607FACE51AFB9204008FA782 /* FHXKit_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FHXKit_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		74C1505DBA067E7BB5EE086A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		74C1505DBA067E7BB5EE086A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		75649A3E2C34EBFD41996CA2 /* Pods-FHXKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FHXKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FHXKit_Tests/Pods-FHXKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		938C1F7C5C3B8B8C882E0E2D /* FHXKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = FHXKit.podspec; path = ../FHXKit.podspec; sourceTree = "<group>"; };
-		9EEDA7D56880080112F64777 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		938C1F7C5C3B8B8C882E0E2D /* FHXKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FHXKit.podspec; path = ../FHXKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9EEDA7D56880080112F64777 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C71714832A5BAB7209C0A917 /* Pods_FHXKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FHXKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
