@@ -1,0 +1,19 @@
+PODS:
+  - FHXFoundation (0.1.2)
+  - FHXKit (0.1.0):
+    - FHXFoundation
+
+DEPENDENCIES:
+  - FHXKit (from `../`)
+
+EXTERNAL SOURCES:
+  FHXKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXFoundation: 7cb1fb2098a278ec571bd06fea6673d882b0b2cb
+  FHXKit: 4cab588d6022ed48c6ada9a26afe7876978a9ed1
+
+PODFILE CHECKSUM: ded485ead1b277769f88ddb1db032b35f92ab203
+
+COCOAPODS: 1.4.0
