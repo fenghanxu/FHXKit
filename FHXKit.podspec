@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FHXKit'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A short description of FHXKit.'
 
 # This description is used to generate tags and improve search results.
@@ -39,6 +39,6 @@ TODO: Add long description of the pod here.
   s.frameworks = 'UIKit','Foundation'
   s.dependency 'FHXFoundation'
 
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.2' }
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
 
 end
